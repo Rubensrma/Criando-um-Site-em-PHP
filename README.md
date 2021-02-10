@@ -1,4 +1,4 @@
-## Criação de site utilizando a linguagem de programação PHP:computer:##
+## Criação de site utilizando a linguagem de programação PHP:computer:
 
 
 
