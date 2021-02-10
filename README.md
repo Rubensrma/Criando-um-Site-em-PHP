@@ -5,7 +5,7 @@
 
 
 - Foi utilizado o framework XAMPP :link: https://www.apachefriends.org/pt_br/index.html , para abertura do servidor.
-- Utilizando o servidor Apache.
+- Utilizando o software de código aberto, Apache.
 - Inclução do código JavaScript e CSS, ao código PHP.
 - Atribuição de TAG HTML (SPAN) para incluir uma classe na linha ( class= "linha\).
 
