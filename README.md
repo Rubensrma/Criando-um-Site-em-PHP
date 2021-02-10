@@ -1,6 +1,6 @@
 ## Criação de site utilizando a linguagem de programação PHP:computer:
 
-- ##Digital Innovatio One
+- Digital Innovatio One
 - Prof. Bruno Prado
 
 
