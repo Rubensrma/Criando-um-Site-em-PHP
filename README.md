@@ -1,5 +1,7 @@
 ## Criação de site utilizando a linguagem de programação PHP:computer:
 
+**Digital Innovation One**
+**Prof. Bruno Prado**
 
 
 
@@ -17,6 +19,8 @@
 
 
 **Para importar foi usado a biblioteca jQuery - Versão 3.5.1.min.js.**
+
+
 
 
 
