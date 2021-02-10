@@ -4,7 +4,7 @@
 **Prof. Bruno Prado**
 
 
-- Foi utilizado o framework XAMPP > https://www.apachefriends.org/pt_br/index.html , para abertura do servidor.
+- Foi utilizado o framework XAMPP :site: https://www.apachefriends.org/pt_br/index.html , para abertura do servidor.
 - Utilizando o servidor Apache.
 - Inclução do código JavaScript e CSS, ao código PHP.
 - Atribuição de TAG HTML (SPAN) para incluir uma classe na linha ( class= "linha\).
